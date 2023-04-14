@@ -59,6 +59,7 @@ data_dict = {"2": {"key": "1", "qwer": "1", "raw": 0, "column": 1},
              "57": {"key": " ", "qwer": " ", "raw": 0, "column": 0},
              "58": {"key": "", "qwer": "", "raw": 0, "column": 0}}
 
+
 counter_fingers = {'f5l': 0, 'f4l': 0, 'f3l': 0, 'f2l': 0, 'f1l': 0, 'f1r': 0, 'f2r': 0, 'f3r': 0, 'f4r': 0, 'f5r': 0}
 counter_fingers_qwer = {'f5l': 0, 'f4l': 0, 'f3l': 0, 'f2l': 0, 'f1l': 0, 'f1r': 0, 'f2r': 0, 'f3r': 0, 'f4r': 0,
                         'f5r': 0}
