@@ -5,7 +5,7 @@ from zubachev import counter_fingers_qwer, counter_fingers, data_dict
 def value_passing_fingers(column, value):
     """
     На вход получает колону и нагрузку
-    Заполняет в словарь палец+=значение
+    Заполняет в словарь палец += значение
     """
     match column:
         case 0 | 1:
